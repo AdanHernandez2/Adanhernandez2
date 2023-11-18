@@ -10,7 +10,6 @@
 - 💬 Ask me about: Javascript and Cybersecurity.
 - 📫 How to reach me: Send me a DM on Twitter.
  
- My personal web site is www.scriptdan.xyz
  
   <div align="left">
         <h3>🔨 Lenguajes and Tools:</h3>
