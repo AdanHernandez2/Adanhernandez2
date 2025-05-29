@@ -20,8 +20,8 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="30" height="30">
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="30" height="30">
         <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" alt="wordpress" width="30" height="30">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="wordpress" alt="wordpress" width="30" height="30">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="wordpress" alt="wordpress" width="30" height="30">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="30" height="30">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="laravel" alt="laravel" width="30" height="30">
     </div>
  
  
