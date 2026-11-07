@@ -1,12 +1,12 @@
 <div id="header" align="center">
 <img src="https://media1.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47w8bcjmjo45zr8bdhmi0wizttdjyzz7uabnqnw6xr&rid=giphy.gif&ct=g" width="80">
 <h1 aligns="center">Hi, I'm Luis Hernandez 👋</h1>
-<h2 align="center">I am a web developer seeking to expand my knowledge and support other developers. I will be working on my own projects to enhance my skills.</h2>
+<h2 align="center">I am a web developer seeking to expand my knowledge and support other developers. I will be working on my own projects.</h2>
 </div>
 
 ### 👨🏽‍💻 About me 
 
-- 🌱 I’m currently learning: linux, javascript, React, php and laravel.
+- 🌱 I’m currently learning: linux and laravel.
 - 💬 Ask me about: Web and Cybersecurity.
 <!-- 📫 How to reach me: Send me a DM on Twitter.-->
  
